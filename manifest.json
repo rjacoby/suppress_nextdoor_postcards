@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Suppress Nextdoor Postcards",
+  "name": "No Nextdoor Postcards",
+  "short_name": "No Postcards",
   "description": "This extension suppresses the Postcards notification on Nextdoor",
-  "version": "1.0",
+  "version": "1.0.1",
   "icons": {
     "128": "icon.png"
   },
